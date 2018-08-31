@@ -1,3 +1,5 @@
+
+#TESTANDO VAGNER 
 # Functions Continous Deployment demo (using VSTS)
 
 This is a simple Azure Functions project (requires Visual Studio 2017 + Functions Tools) that listens for new Documents in Cosmos DB and then sends their contents as an email via SendGrid.
